@@ -1,0 +1,8 @@
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+
+[inputs/monitor%3A%2F%2F%2FUsers%2Fomerereken%2FDesktop%2Fpadas_alert_example_3.json]
+owner = admin
+version = 8.1.5
+modtime = 1635278418.566622000
